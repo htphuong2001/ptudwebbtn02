@@ -1,0 +1,16 @@
+.main {
+  background-color: #e6dace;
+}
+
+.general {
+  background-color: #f4ece6;
+}
+
+.detail {
+  background-color: #f5f5f5;
+}
+
+.detail .back-link {
+  text-align: end;
+  color: #0050ff;
+}

@@ -1,0 +1,16 @@
+.main {
+  background-color: #40c4ff;
+}
+
+.profile {
+  flex-direction: row-reverse;
+}
+
+.general {
+  background-color: #80d8ff;
+}
+
+.detail .back-link {
+  text-align: start;
+  color: inherit;
+}
